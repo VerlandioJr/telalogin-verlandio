@@ -41,11 +41,13 @@ section#login{
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px #000018a4;
+
+    transition: width 0.8s, height 0.8s;
 }
 
 section#login > div#imagem{
     display: block;
-    background: #081d3c url(../imagens/pexels-dkomov-34803976\ \(1\).jpg) no-repeat;
+    background: #081d3c url(../imagens/pexels-dkomov-34804019.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 }
