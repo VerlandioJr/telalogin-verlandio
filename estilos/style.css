@@ -52,7 +52,50 @@ section#login > div#imagem{
     height: 200px;
 }
 
+section#login > h1{
+    text-align: center;
+    color: #103960;
+    font-size: 1em;
+    padding: 10px 0px;
+}
+
+section#login > p{
+    text-align: center;
+    color: #103960;
+    font-size: 0.8em;
+    padding: 10px 0px;
+}
+
 section#login > div#formulario{
     display: block;
     padding: 10px;
+}
+
+section#login > input{
+    margin-bottom: 10px;
+    background-color: #185685;
+    border-radius: 10px;
+}
+
+input[type="submit"]{
+    display: block;
+    background-color: #103960;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 2px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+a{
+    display: block;
+    background-color: #000018;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    padding: 4px;
+    margin-top: 3px;
+    text-decoration: none;
 }
