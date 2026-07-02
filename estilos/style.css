@@ -66,11 +66,6 @@ section#login > p{
     padding: 10px 0px;
 }
 
-section#login > div#formulario{
-    display: block;
-    padding: 10px;
-}
-
 section#login > input{
     margin-bottom: 10px;
     background-color: #185685;
