@@ -81,6 +81,8 @@ input[type="submit"]{
     display: block;
     background-color: #103960;
     color: white;
+    height: 35px;
+    width: 100%;
     border: none;
     border-radius: 5px;
     margin-top: 2px;
