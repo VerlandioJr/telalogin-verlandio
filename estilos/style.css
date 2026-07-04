@@ -63,6 +63,7 @@ div#formulario > h1{
 
 div#formulario > p{
     font-size: 0.8em;
+    margin-bottom: 10px;
 }
 
 form > div.campo{
@@ -79,18 +80,20 @@ div.campo > label{
 }
 
 div.campo > i{
-    width: 10%;
-    height: 100%;
-    font-size: 1.2em;
+    width: 40px;
+    padding: 5px;
+    font-size: 1.5em;
     color: white;
 }
 
 div.campo > input{
-    width: 80%;
-    height: 90%;
-    border: none;
-    border-radius: 5px;
-    font-size: 1.2em;
+    width: calc(100% - 45px);
+    height: 100%;
+    padding: 5px;
+    border: 2px solid #1f73a9;
+    border-radius: 8px;
+    font-size: 0.8em;
+    transform: translateY(-8px);
 }
 
 section#login > input{

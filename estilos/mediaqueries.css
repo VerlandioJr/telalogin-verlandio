@@ -12,14 +12,24 @@
         background-size: cover;
         background-position: center;
         float: left;
-        width: 50%;
+        width: 53%;
         height: 100%;
 
     }
 
     section#login > div#formulario{
         float: right;
-        width: 50%;
+        width: 45%;
+    }
+
+    div#formulario > h1{
+        text-align: center;
+        margin: 20px;
+    }
+
+    div#formulario > p{
+        font-size: 1em;
+        margin-bottom: 40px;
     }
 }
 
@@ -34,13 +44,24 @@
 
     section#login > div#imagem{
         float: left;
-        width: 60%;
+        width: 53%;
         height: 100%;
         background-size: cover;
     }
 
     section#login > div#formulario{
         float: right;
-        width: 40%;
+        width: 45%;
+    }
+
+     div#formulario > h1{
+        margin: 20px;
+        text-align: center;
+        font-size: 2em;
+    }
+
+    div#formulario > p{
+        font-size: 1.2em;
+        margin-bottom: 20px;
     }
 }
