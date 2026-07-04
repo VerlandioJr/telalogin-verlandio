@@ -6,6 +6,7 @@
     }
     section#login{
         width: 90vw;
+        height: 400px;
     }
 
     section#login > div#imagem{
@@ -40,6 +41,7 @@
 
     section#login{
         width: 900px;
+        height: 450px;
     }
 
     section#login > div#imagem{
