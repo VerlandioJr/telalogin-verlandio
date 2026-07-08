@@ -92,8 +92,8 @@ div.campo > input{
     padding: 5px;
     border: 2px solid #1f73a9;
     border-radius: 8px;
-    font-size: 1em;
-    transform: translateY(-6px);
+    font-size: 0.8em;
+    transform: translateY(-8px);
 }
 
 section#login > input{
